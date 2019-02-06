@@ -1,0 +1,19 @@
+What was good:
+-early course material, good on pacing, helpful materials
+-lesson material up to Node good
+
+
+What was bad:
+-current course material, lessons/links not very helpful (node, http clients)
+-Intro to Modules, Comparison to Node HTTP Clients (little instruction, little material, confusing)
+-Promises?
+-old material released to self paced students
+
+
+
+Suggestions for improvement:
+-need a more technical breakdown on Node, what's each specific component and how they work together
+-share supplemental materials with the rest of the class
+-lesson on Google searching, finding answers on the internet
+-lesson on project architecture, best practices
+-examples on best practices on different assessments

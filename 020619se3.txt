@@ -1,0 +1,15 @@
+What was good:
+-demos are helpful, starter code is helpful
+-flowchart, visual representations (front end-back end, databases)
+-Taylor explains things well in demos
+-stand up in afternoon, follow up in afternoon
+
+What was bad:
+-Livepaint assessment not clear on expectations
+
+Suggestions for improvement:
+-more visual representations on request/response, asynchronism
+-more recording on demos
+-daily recap
+-more videos examples in lessons
+-provide more checkpoints
